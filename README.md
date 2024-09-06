@@ -1,4 +1,4 @@
-# Dynamic Shot Capacity Adjustment = Overview
+# Dynamic Shot Capacity Adjustment Overview
 This project implements a mechanism designed to dynamically adjust shot capacity based on class-specific accuracy to improve model performance during inference.
 The framework utilizes PyTorch and supports Distributed Data Parallel (DDP) training across multiple GPUs.
 
