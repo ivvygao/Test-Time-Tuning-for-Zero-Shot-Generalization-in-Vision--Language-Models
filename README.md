@@ -22,8 +22,7 @@ Clone the repository and install the required packages:
 
 ```bash
 git clone https://ivvygao/dynamic_shot_capacity_adjustment.git
-cd project_tda
-pip install -r requirements.txt
+cd Dynamic_Shot_Capacity_Adjustment
 ```
 
 ## Configuration
